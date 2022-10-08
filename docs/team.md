@@ -12,7 +12,7 @@ Position: School of Life Science and Technology, Huazhong University of Science 
 
 ## Team member
 
-<center><img src="./img/team_2.png"></center>
+<center><img src="img/team_2.png"></center>
 
 Tiancheng Liu
 Major:Biological science, Huazhong University of Science and Technology
