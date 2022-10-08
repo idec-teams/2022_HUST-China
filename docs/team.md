@@ -14,19 +14,19 @@ Position: School of Life Science and Technology, Huazhong University of Science 
 
 <center>
     <img src="../img/team_2.png">
-    <figcaption>Tiancheng Liu<br/>
+    <figcaption size=1em>Tiancheng Liu<br/>
 Major: Biological science, Huazhong University of Science and Technology<br/>
 Attribution: Team leader, take in charge of the team,design the experiment, measure the apparent melting temperature and write the report.</figcaption>
     <img src="../img/team_3.png">
-    <figcaption>Shuo Zhang<br/>
+    <figcaption size=2em>Shuo Zhang<br/>
 Major: Biological science, Huazhong University of Science and Technology<br/>
 Attribution: Do the deputation experiment, analyses the result of the experiment,guide experimental operation,assist to write the report.</figcaption>
     <img src="../img/team_4.png">
-    <figcaption>Yuxuan He<br/>
+    <figcaption size=3em>Yuxuan He<br/>
 Major: Biological science, Huazhong University of Science and Technology&Paris-Saclay University<br/>
 Attribution: Do the cloning and expression of genes, purify SQR, write the wiki of experiment,assist to write the report</figcaption>
     <img src="../img/team_5.png">
-    <figcaption>Xinchen Xie<br/>
+    <figcaption size=4em>Xinchen Xie<br/>
 Major:Biological science,Huazhong University of Science and Technology&
 Paris-Saclay University<br/>
 Attribution: Construct functional bacteria used in the experiment,Read the literature to help design the experiment，assist to write the report.</figcaption>
