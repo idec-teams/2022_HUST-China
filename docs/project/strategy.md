@@ -1,4 +1,5 @@
-<h2><font color=navy>Strategy: Rational Design</font><h2>
+<h1><font color=navy>Strategy: Rational Design</font><h1>
+
 
 <h2><font color=navy><i>1. What is rational design?</i></font></h2>
 
