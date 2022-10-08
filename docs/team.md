@@ -13,9 +13,9 @@ Position: School of Life Science and Technology, Huazhong University of Science 
 ## Team member
 
 <figure class="third">
-    <img src=".\img\team_2.png" height=330>
-    <img src=".\img\team_3.png" height=330>
-    <img src=".\img\team_4.png" height=330>
+    <img src=".\img\team_2.png" height=300>
+    <img src=".\img\team_3.png" height=300>
+    <img src=".\img\team_4.png" height=300>
 </figure>
 
 
