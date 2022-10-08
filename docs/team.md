@@ -4,7 +4,7 @@
 
 <center>
     <img src="../img/team_1.png">
-    <figcaption>Yunjun Yan<br/>
+    <figcaption><b>Yunjun Yan</b><br/>
 </figcaption>
 </center>
 
@@ -15,7 +15,7 @@
 <h2><font color=navy>Team leader</font></h2>
 <center>
     <img src="../img/team_2.png">
-    <figcaption>Tiancheng Liu<br/>
+    <figcaption><b>Tiancheng Liu</b><br/>
 <b>Major</b>: Biological science, Huazhong University of Science and Technology<br/>
 <b>Attribution</b>: Team leader, take in charge of the team,design the experiment, measure the apparent melting temperature and write the report.</figcaption>
 </center>
@@ -24,34 +24,34 @@
 
 <center>
     <img src="../img/team_3.png">
-    <figcaption>Shuo Zhang<br/>
+    <figcaption><b>Shuo Zhang</b><br/>
 <b>Major</b>: Biological science, Huazhong University of Science and Technology<br/>
 <b>Attribution</b>: Do the deputation experiment, analyses the result of the experiment, guide experimental operation, assist to write the report.</figcaption>
     <img src="../img/team_4.png">
-    <figcaption>Yuxuan He<br/>
+    <figcaption><b>Yuxuan He</b><br/>
 <b>Major</b>: Biological science, Huazhong University of Science and Technology&Paris-Saclay University<br/>
 <b>Attribution</b>: Do the cloning and expression of genes, purify SQR, write the wiki of experiment, assist to write the report.</figcaption>
     <img src="../img/team_5.png">
-    <figcaption>Xinchen Xie<br/>
+    <figcaption><b>Xinchen Xie</b><br/>
 <b>Major</b>: Biological science, Huazhong University of Science and Technology&Paris-Saclay University<br/>
 <b>Attribution</b>: Construct functional bacteria used in the experiment, Read the literature to help design the experiment, assist to write the report.</figcaption>
     <img src="../img/team_6.png">
-    <figcaption>Yi Xin<br/>
+    <figcaption><b>Yi Xin</b><br/>
 <b>Major</b>: Biological science, Huazhong University of Science and Technology&Paris-Saclay University<br/>
 <b>Attribution</b>: Determine the activity of enzyme, help to screening of flexible sites, assist to predict of SQR mutation sites.</figcaption>
     <img src="../img/xzq.png">
-    <figcaption>Ziqi Xie<br/>
+    <figcaption><b>Ziqi Xie</b><br/>
 <b>Major</b>：Biological science, Huazhong University of Science and Technology<br/>
 <b>Attribution</b>: Computer art, draw pictures.</figcaption>
     <img src="../img/lzk.png">
-    <figcaption>Zikai Lin<br/>
+    <figcaption><b>Zikai Lin</b><br/>
 <b>Major</b>：Biological science, Huazhong University of Science and Technology<br/>
 <b>Attribution</b>: Design web, produce web.</figcaption>
 </center>
 <h2><font color=navy>Mentor</font></h2>
 <center>
     <img src="../img/team_7.png">
-    <figcaption>Changing Fan<br/>
+    <figcaption><b>Changing Fan</b><br/>
 <b>Major</b>：Biotechnology, Huazhong University of Science and Technology <br/>
 <b>Attribution</b>: Instruct the experiment.</figcaption>
 </center>
