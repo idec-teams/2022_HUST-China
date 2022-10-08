@@ -19,7 +19,7 @@ The frequently-used software and programs are: SWISS -MODEL；Disulfide by Desig
 
 In our experiment, we screen the mutation sites by predicting the effect of mutation on the free energy of unfolding of enzyme.  
 
-\(\Delta\Delta G=\Delta G_\mathrm{mutant}-\Delta G_\mathrm{wild}\)
+$\Delta\Delta G=\Delta G_\mathrm{mutant}-\Delta G_\mathrm{wild}$
 
 \(\Delta\Delta G\)：*the effect of mutations on the free energy of unfolding(*\(\Delta G\)*) of protein molecules simulated by computer-aided analysis*
 When \(\Delta\Delta G\) is **less than zero**, it indicates that the mutation could **improve the thermal stability of the target protein**, and the smaller the \(\Delta\Delta G\) mutation is, the better the thermal stability of the target protein, while when \(\Delta\Delta G\) value is **greater than zero**, it indicates that the mutation **decreases the thermal stability of target protein**.
