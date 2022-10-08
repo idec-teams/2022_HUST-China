@@ -1,5 +1,9 @@
 <h1><font color=navy>Strategy: Rational Design</font></h1>
 
+<center>
+    <img src="../../img/flow_chart.svg">
+</center>
+
 <h2><font color=navy><i>Introduction</i></font></h2>
 
 <h3><font color=navy><i>1. What is rational design?</i></font></h3>
