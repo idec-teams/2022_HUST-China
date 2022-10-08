@@ -7,15 +7,15 @@
     <figcaption>Yunjun Yan<br/>
 </figcaption>
 <center>
-Personal profile: Associate dean of Life Science and Technology School, Huazhong University of Science and Technology. Second-class professor, doctoral supervisor, Deputy Director of the Key Laboratory of Molecular Biophysics of the Ministry of Education. He has presided over several national major projects. He has long been guiding various discipline competitions, leading students to carry out innovation and entrepreneurship training and scientific research practice. With rich experience, he has guided iGEM team to win the International Gold award for many times.
+**Personal profile**: Associate dean of Life Science and Technology School, Huazhong University of Science and Technology. Second-class professor, doctoral supervisor, Deputy Director of the Key Laboratory of Molecular Biophysics of the Ministry of Education. He has presided over several national major projects. He has long been guiding various discipline competitions, leading students to carry out innovation and entrepreneurship training and scientific research practice. With rich experience, he has guided iGEM team to win the International Gold award for many times.
 
-Position: School of Life Science and Technology, Huazhong University of Science and Technology.
+**Position**: School of Life Science and Technology, Huazhong University of Science and Technology.
 <h2><font color=navy>Team member</font></h2>
 
 <center>
     <img src="../img/team_2.png">
     <figcaption>Tiancheng Liu<br/>
-Major: Biological science, Huazhong University of Science and Technology<br/>
+<b>Major</b>: Biological science, Huazhong University of Science and Technology<br/>
 Attribution: Team leader, take in charge of the team,design the experiment, measure the apparent melting temperature and write the report.</figcaption>
     <img src="../img/team_3.png">
     <figcaption>Shuo Zhang<br/>
