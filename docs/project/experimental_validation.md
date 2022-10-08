@@ -8,7 +8,9 @@ Then induce the strains to express SQR. The fermentation broth is harvested by c
 
 50 mM PBS buffer containing 10 mM imidazole is used to eliminate other proteins, and 50 mM PBS buffer containing 100 mM imidazole is used to obtain pure SQR. At last, sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE) is used to identify the molecular mass and purity of the recombinant enzyme.
 
-![purify'](..\img\purify'.png){width=600px}
+<center>
+    <img src="../../img/purify'.png">
+</center>
 
 
 
@@ -22,6 +24,6 @@ Tm is defined as the maximum of dRFU/dT. For each sample, mix 5 μL 100xSYPROTM 
 
 We use the spectrophotometry to assay enzyme activity, which depends on the reduction of the absorbance at wavelength of 275nm caused by the reduction reaction of decylubiquinone (DUQ). The activity unit of the enzyme is defined as the amount of SQR required to reduce 1μmol of DUQ per minute. 
 
-
-
-![SQR](..\img\SQR.png){width=600px}
+<center>
+    <img src="../../img/SQR.png">
+</center>
