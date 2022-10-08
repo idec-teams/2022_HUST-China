@@ -29,13 +29,13 @@ Attribution:Team leader,, take in charge of the team,design the experiment, meas
 ![team_3](.\img\team_3.png)
 
 Shuo Zhang
-Major:Biological science, Huazhong University of Science and Technology
+Major: Biological science, Huazhong University of Science and Technology
 Attribution: Do the deputation experiment, analyses the result of the experiment,guide experimental operation,assist to write the report.
 
 ![team_4](.\img\team_4.png)
 
 Yuxuan He
-Major:Biological science,Huazhong University of Science and Technology&Paris-Saclay University
+Major: Biological science, Huazhong University of Science and Technology&Paris-Saclay University
 Attribution: Do the cloning and expression of genes, purify SQR, write the wiki of experiment,assist to write the report
 
 ![team_5](.\img\team_5.png)
