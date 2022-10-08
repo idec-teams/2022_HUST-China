@@ -1,5 +1,11 @@
 # iDEC 2022 | HUST-China
 
-This wiki template was built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). You are by no means confined to use this template. In fact, you are encouraged to build your own unique **static site** that best suits your project, and you are free to use any framework you like.
+Sulfur is the basic element of all life, and its lowest valence exists in the form of sulfide, which participates in many important physiological processes in life. Acidithiobacillus ferrooxidans Sulfide:quinone oxidoreductase (SQR) can catalyzes the reduction of sulfide and the oxidation of quinone, which is widespread in living organisms. In the past 10 years, scientists have systematically studied the biological function of SQR in sulfide degradation and made remarkable progress. It has potential application value in improving animal intestinal microenvironment, controlling animal pollution gas emission and the biosynthesis of some medicine with hydroquinone structure. But the current thermo stability of SQR expressed by wild type is not high, the half-life is 30 minutes at the optimum temperature of 30°C. We enhanced the thermo stability of SQR by rational-design point mutations and disulfide bonds.
 
-Should you decide to use this wiki, however, we have a [tutorial](https://wiki.idec.io/team_wiki/mkdocs/) to walk you through the basics.
+
+
+## Team
+
+Instructor
+
+![index_1](D:\document\2_IDEC\2022_HUST-China\docs\img\index_1.png)
