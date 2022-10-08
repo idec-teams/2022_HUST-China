@@ -43,7 +43,7 @@
     <figcaption>Ziqi Xie<br/>
 <b>Major</b>：Biological science, Huazhong University of Science and Technology<br/>
 <b>Attribution</b>: Computer art, draw pictures.</figcaption>
-    <img src="../img/lzk.png">
+    <img src="../img/lzk.jpg">
     <figcaption>Zikai Lin<br/>
 <b>Major</b>：Biological science, Huazhong University of Science and Technology<br/>
 <b>Attribution</b>: Design web, produce web.</figcaption>
