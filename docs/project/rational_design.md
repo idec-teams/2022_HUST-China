@@ -1,7 +1,7 @@
 <h1><font color=navy>Strategy: Rational Design</font></h1>
 
 <center>
-    <img src="../../img/flow_chart.svg">
+    <img src="../../img/flow_chart.svg" width=650>
 </center>
 
 <h2><font color=navy><i>Introduction</i></font></h2>
@@ -11,7 +11,7 @@
 The rational protein design strategy is mainly based on **site-directed mutagenesis** and **protein crystal diffraction technology**. Bioinformatics or computer-aided methods are used to purposefully introduce new amino acids at specific sites, so as to modify specific properties of target proteins, such as thermal stability. This strategy is easy to conduct and it can save a lot of time. To minimize the selection workload and the randomness of the directed evolution technique, we apply this strategy to find those mutation sites.  
 
 <center>
-    <img src="../../img/rational_design.png">
+    <img src="../../img/rational_design.png" width=650>
 </center>
 
 <h2><font color=navy><i>2. How to design?</i></font></h2>
@@ -32,7 +32,7 @@ In our experiment, we screen the mutation sites by predicting the effect of muta
 When ΔΔG is **less than zero**, it indicates that the mutation could **improve the thermal stability of the target protein**, and the smaller the ΔΔG mutation is, the better the thermal stability of the target protein, while when ΔΔG value is **greater than zero**, it indicates that the mutation **decreases the thermal stability of target protein**.
 
 <center>
-    <img src="../../img/delta_G(1).png">
+    <img src="../../img/delta_G(1).png" width=650>
 </center>
 
 
@@ -76,7 +76,7 @@ By inputting amino acid sequences of target protein into the software,we can obs
 The covalent bond formed by oxidation of the sulfhydryl groups of the two Cys side chains is called a disulfide bond. It is a **high strength interaction force**, which effects the stability of enzyme mainly depends on the entropy.
 
 <center>
-    <img src="../../img/disulfide_bond.png">
+    <img src="../../img/disulfide_bond.png" width=650>
 </center>
 
 
