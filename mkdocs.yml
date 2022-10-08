@@ -43,7 +43,7 @@ nav:
   - Team: team.md
   - Project:
       - Background: project/background.md
-      - Design: project/design.md
+      - Design: project/strategy.md
       - Results: project/results.md
   - <b>Report</b>: report.md
   - <b>Supplementary Information</b>: supplementary_info.md
