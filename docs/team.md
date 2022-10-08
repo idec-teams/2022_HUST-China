@@ -1,13 +1,15 @@
-# Our Team
+# Our Team<h1><font color=navy>Our Team</font></h1>
 
-## Instructor
+<h2><font color=navy>Instructor</font></h2>
 
 <center>
     <img src="../img/team_1.png">
     <figcaption>Yunjun Yan<br/>
-Personal profile: Associate dean of Life Science and Technology School, Huazhong University of Science and Technology. Second-class professor, doctoral supervisor, Deputy Director of the Key Laboratory of Molecular Biophysics of the Ministry of Education. He has presided over several national major projects. He has long been guiding various discipline competitions, leading students to carry out innovation and entrepreneurship training and scientific research practice. With rich experience, he has guided iGEM team to win the International Gold award for many times.<br/>
-Position: School of Life Science and Technology, Huazhong University of Science and Technology.</figcaption>
+</figcaption>
 <center>
+Personal profile: Associate dean of Life Science and Technology School, Huazhong University of Science and Technology. Second-class professor, doctoral supervisor, Deputy Director of the Key Laboratory of Molecular Biophysics of the Ministry of Education. He has presided over several national major projects. He has long been guiding various discipline competitions, leading students to carry out innovation and entrepreneurship training and scientific research practice. With rich experience, he has guided iGEM team to win the International Gold award for many times.
+
+Position: School of Life Science and Technology, Huazhong University of Science and Technology.
 <h2><font color=navy>Team member</font></h2>
 
 <center>
@@ -39,7 +41,7 @@ Major：Biotechnology, Huazhong University of Science and Technology <br/>
 Attribution: instruct the experiment</figcaption>
 </center>
 
-## Acknowledgement
+<h2><font color=navy>Acknowledgement</font></h2>
 
 Thank The senior students in the laboratory for answering our questions patiently and gave us a lot of constructive advice.
 Thank Jinsha Huang for her patiently guidance.
