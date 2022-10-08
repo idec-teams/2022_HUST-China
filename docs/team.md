@@ -12,11 +12,13 @@ Position: School of Life Science and Technology, Huazhong University of Science 
 
 ## Team member
 
-<center><img src="../img/team_2.png"></center>
-
-Tiancheng Liu<font size=6em color=409100>aaaaa</font>
+<figure>
+    <img src="../img/team_2.png">
+    <figcaption>Tiancheng Liu
 Major:Biological science, Huazhong University of Science and Technology
-Attribution:Team leader,, take in charge of the team,design the experiment, measure the apparent melting temperature and write the report.
+Attribution:Team leader,, take in charge of the team,design the experiment, measure the apparent melting temperature and write the report.</figcaption>
+<figure>
+
 
 ![team_3](./img/team_3.png)
 
