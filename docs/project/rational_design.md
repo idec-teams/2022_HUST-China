@@ -19,7 +19,7 @@ The frequently-used software and programs are: SWISS -MODEL；Disulfide by Desig
 
 In our experiment, we screen the mutation sites by predicting the effect of mutation on the free energy of unfolding of enzyme.  
 
-**ΔΔG=ΔG**~**mutant**~**– ΔG****~wild**~
+**ΔΔG=ΔG~mutant~– ΔG~wild~**
 
 *ΔΔG：the effect of mutations on the free energy of unfolding(ΔG) of protein molecules simulated by computer-aided analysis*
 When ΔΔG is **less than zero**, it indicates that the mutation could **improve the thermal stability of the target protein**, and the smaller the ΔΔG mutation is, the better the thermal stability of the target protein, while when ΔΔG value is **greater than zero**, it indicates that the mutation **decreases the thermal stability of target protein**.
