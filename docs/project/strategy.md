@@ -24,7 +24,6 @@ $\Delta\Delta G=\Delta G_\mathrm{mutant}-\Delta G_\mathrm{wild}$
 $\Delta\Delta G$：*the effect of mutations on the free energy of unfolding(*$\Delta G$*) of protein molecules simulated by computer-aided analysis*
 When $\Delta\Delta G$ is **less than zero**, it indicates that the mutation could **improve the thermal stability of the target protein**, and the smaller the $\Delta\Delta G$ mutation is, the better the thermal stability of the target protein, while when $\Delta\Delta G$ value is **greater than zero**, it indicates that the mutation **decreases the thermal stability of target protein**.
 
-![delta G(1)](../img/delta G(1).png){width=600px}
 <center>
     <img src="../../img/delta_G(1).png">
 </center>
@@ -60,8 +59,7 @@ Prediction can be made online directly on the [website](http://folding.biofold.o
 
 By inputting amino acid sequences of target protein into the software,we can observe the change of the unfolding free energy ($\Delta\Delta G$ value) of each mutant protein. Thus the positive and negative effects of the mutation site on the thermal stability of the protein can be measured by it.
 
-**We comprehensively consider two methods to select suitable mutations.**</u>
-
+**We comprehensively consider two methods to select suitable mutations.**
 
 
 <h1><font color=navy>Disulfide bond</font></h1>
@@ -70,7 +68,9 @@ By inputting amino acid sequences of target protein into the software,we can obs
 
 The covalent bond formed by oxidation of the sulfhydryl groups of the two Cys side chains is called a disulfide bond. It is a **high strength interaction force**, which effects the stability of enzyme mainly depends on the entropy.
 
-![disulfide bond](../img/disulfide_bond.png){width=600px}
+<center>
+    <img src="../../img/disulfide_bond.png">
+</center>
 
 
 
