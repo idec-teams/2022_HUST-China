@@ -21,8 +21,8 @@ In our experiment, we screen the mutation sites by predicting the effect of muta
 
 $\Delta\Delta G=\Delta G_\mathrm{mutant}-\Delta G_\mathrm{wild}$
 
-\(\Delta\Delta G\)：*the effect of mutations on the free energy of unfolding(*\(\Delta G\)*) of protein molecules simulated by computer-aided analysis*
-When \(\Delta\Delta G\) is **less than zero**, it indicates that the mutation could **improve the thermal stability of the target protein**, and the smaller the \(\Delta\Delta G\) mutation is, the better the thermal stability of the target protein, while when \(\Delta\Delta G\) value is **greater than zero**, it indicates that the mutation **decreases the thermal stability of target protein**.
+$\Delta\Delta G$：*the effect of mutations on the free energy of unfolding(*$\Delta G$*) of protein molecules simulated by computer-aided analysis*
+When $\Delta\Delta G$ is **less than zero**, it indicates that the mutation could **improve the thermal stability of the target protein**, and the smaller the $\Delta\Delta G$ mutation is, the better the thermal stability of the target protein, while when $\Delta\Delta G$ value is **greater than zero**, it indicates that the mutation **decreases the thermal stability of target protein**.
 
 ![delta G(1)](../img/delta G(1).png){width=600px}
 <center>
@@ -58,7 +58,7 @@ Select residues within 5Å around the catalytic sites by PyMOl. Then eliminate t
 
 Prediction can be made online directly on the [website](http://folding.biofold.org/i-mutant/i-mutant2.0.html).
 
-By inputting amino acid sequences of target protein into the software,we can observe the change of the unfolding free energy (\(\Delta\Delta G\) value) of each mutant protein. Thus the positive and negative effects of the mutation site on the thermal stability of the protein can be measured by it.
+By inputting amino acid sequences of target protein into the software,we can observe the change of the unfolding free energy ($\Delta\Delta G$ value) of each mutant protein. Thus the positive and negative effects of the mutation site on the thermal stability of the protein can be measured by it.
 
 **We comprehensively consider two methods to select suitable mutations.**</u>
 
@@ -84,7 +84,7 @@ We use three methods to design our disulfide bond.
 
 [**BridgeD**](http://biodev.cea.fr/bridged/) uses multiple protein structures to improve the flexibility of the protein skeleton, aiming to find the potential disulfide-bond-forming sites.
 
-Pool all the residue pairs that could form disulfide bonds predicted by these three methods together, and eliminate the above key sites, and calculate the \(\Delta\Delta G\) after mutation by Rosetta. For mutation combinations with \(\Delta\Delta G\) less than 0, PyMOL was used to observe whether the pairs of cysteine residues were matched after mutation.
+Pool all the residue pairs that could form disulfide bonds predicted by these three methods together, and eliminate the above key sites, and calculate the $\Delta\Delta G$ after mutation by Rosetta. For mutation combinations with $\Delta\Delta G$ less than 0, PyMOL was used to observe whether the pairs of cysteine residues were matched after mutation.
 
 
 
