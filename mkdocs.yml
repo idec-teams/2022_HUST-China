@@ -41,11 +41,11 @@ copyright: Copyright &copy; 2022 iDEC. CC-BY-4.0 | The International Directed Ev
 nav:
   - Home: index.md
   - Team: team.md
-  - Project:
-      - Background: project/background.md
-      - Strategy: project/strategy.md
-      - Results: project/results.md
-  - Documentation:
-      - Protocols: documentation/protocols.md
-      - Lab notebook: documentation/notebook.md
-      - Reports: documentation/reports.md 
+#  - Project:
+  - Background: project/background.md
+  - Strategy: project/strategy.md
+  - Results: project/results.md
+#  - Documentation:
+  - Protocols: documentation/protocols.md
+  - Lab notebook: documentation/notebook.md
+  - Reports: documentation/reports.md 
