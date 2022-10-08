@@ -1,7 +1,7 @@
 <h1><font color=navy>Strategy: Rational Design</font></h1>
 
 <center>
-    <img src="../../img/flow_chart.svg" width=650>
+    <img src="../../img/flow_chart.svg" width=750>
 </center>
 
 <h2><font color=navy><i>Introduction</i></font></h2>
