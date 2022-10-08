@@ -1,6 +1,8 @@
 <h1><font color=navy>Strategy: Rational Design</font></h1>
 
-<h2><font color=navy><i>1. What is rational design?</i></font></h2>
+<h2><font color=navy><i>Introduction</i></font></h2>
+
+<h3><font color=navy><i>1. What is rational design?</i></font></h3>
 
 The rational protein design strategy is mainly based on **site-directed mutagenesis** and **protein crystal diffraction technology**. Bioinformatics or computer-aided methods are used to purposefully introduce new amino acids at specific sites, so as to modify specific properties of target proteins, such as thermal stability. This strategy is easy to conduct and it can save a lot of time. To minimize the selection workload and the randomness of the directed evolution technique, we apply this strategy to find those mutation sites.  
 
@@ -15,11 +17,11 @@ By analyzing the crystal structure of enzyme, computer-aided design can predict 
 The frequently-used software and programs are: SWISS -MODEL；Disulfide by Design；MODIP；MODELLER 9.9；GROMACS；B -FITTER；PyMol; ccp4；Discovery Studio 3.5; ESyPred3D；ESBRI；libSVM.
 
 
-<h2><font color=navy><i>3. How do we select?</i></font></h2>
+<h3><font color=navy><i>3. How do we select?</i></font></h3>
 
 In our experiment, we screen the mutation sites by predicting the effect of mutation on the free energy of unfolding of enzyme.  
 
-**ΔΔG=ΔG~mutant~– ΔG~wild~**
+<b>ΔΔG=ΔG<sub>mutant</sub>–ΔG<sub>wild</sub></b>
 
 *ΔΔG：the effect of mutations on the free energy of unfolding(ΔG) of protein molecules simulated by computer-aided analysis*
 When ΔΔG is **less than zero**, it indicates that the mutation could **improve the thermal stability of the target protein**, and the smaller the ΔΔG mutation is, the better the thermal stability of the target protein, while when ΔΔG value is **greater than zero**, it indicates that the mutation **decreases the thermal stability of target protein**.
@@ -31,15 +33,15 @@ When ΔΔG is **less than zero**, it indicates that the mutation could **improve
 
 
 
-<h1><font color=navy>Point mutation </font></h1>
+<h2><font color=navy>Point mutation </font></h2>
 
-<h2><font color=navy><i>1. Screening of flexible sites</i></font></h2>
+<h3><font color=navy><i>1. Screening of flexible sites</i></font></h3>
 
 Use GROMACS to calculate the Root mean square fluctuation (RMSF) of each amino acid residue of SQR. Amino acid sites with high flexibility are selected.
 
 
 
-<h2><font color=navy><i>2. Elimination of key sites</i></font></h2>
+<h3><font color=navy><i>2. Elimination of key sites</i></font></h3>
 
 Obtain evolutionarily conserved sites of proteins from ConSURF-DB. Collect the sequences with **high similarity to the target sequences**. And then perform multiple sequence alignment (MSA) by MAFFT method. Calculate evolutionary conservation of each position, and then rank them on a scale of 1 to 9. Residues with a conserved rank greater than 8 are **removed** from the mutation library.
 
@@ -47,13 +49,13 @@ Select residues within 5Å around the catalytic sites by PyMOl. Then eliminate t
 
 
 
-<h2><font color=navy><i>3. Energy change prediction of SQR mutation sites</i></font></h2>
+<h3><font color=navy><i>3. Energy change prediction of SQR mutation sites</i></font></h3>
 
-<h3><font color=navy>(1) Prediction by Rosetta </font></h3>
+<h4><font color=navy>(1) Prediction by Rosetta </font></h4>
 
 **Rosetta ddg_monomer** predicts mutation sites that can potentially improve the thermal stability of the target protein through computing the change of folding free energy (ΔΔG) of each mutant protein relative to the wild protein. Before computing, we need to **minimize the three-dimension structure** of the target protein in advance to reduce the interference of molecular collision in the process of protein unfolding. 
 
-<h3><font color=navy>(2) Prediction by I-Mutant 2.0 </font></h3>
+<h4><font color=navy>(2) Prediction by I-Mutant 2.0 </font></h4>
 
 Prediction can be made online directly on the [website](http://folding.biofold.org/i-mutant/i-mutant2.0.html).
 
@@ -62,9 +64,9 @@ By inputting amino acid sequences of target protein into the software,we can obs
 **We comprehensively consider two methods to select suitable mutations.**
 
 
-<h1><font color=navy>Disulfide bond</font></h1>
+<h2><font color=navy>Disulfide bond</font></h2>
 
-<h2><font color=navy><i>1. What is disulfide bond?</i></font></h2>
+<h3><font color=navy><i>1. What is disulfide bond?</i></font></h3>
 
 The covalent bond formed by oxidation of the sulfhydryl groups of the two Cys side chains is called a disulfide bond. It is a **high strength interaction force**, which effects the stability of enzyme mainly depends on the entropy.
 
@@ -74,7 +76,7 @@ The covalent bond formed by oxidation of the sulfhydryl groups of the two Cys si
 
 
 
-<h2><font color=navy><i>2. How to design a disulfide bond?</i></font></h2>
+<h3><font color=navy><i>2. How to design a disulfide bond?</i></font></h3>
 
 We use three methods to design our disulfide bond. 
 
@@ -88,7 +90,7 @@ Pool all the residue pairs that could form disulfide bonds predicted by these th
 
 
 
-<h2><font color=navy><i>3. What about the rest of the sulfhydryl groups?</i></font></h2>
+<h3><font color=navy><i>3. What about the rest of the sulfhydryl groups?</i></font></h3>
 
 The formation of disulfide bond by sulfhydryl groups can increase the thermal stability of enzyme. However, the **free sulfhydryl group** is easy to be oxidized, which will have a **negative effect** on the thermal stability of enzyme.
 
