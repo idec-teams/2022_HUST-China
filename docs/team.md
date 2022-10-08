@@ -1,3 +1,4 @@
+<div style='background-image: url(../img/1.png)'>
 <h1><font color=navy>Our Team</font></h1>
 
 <h2><font color=navy>Instructor</font></h2>
