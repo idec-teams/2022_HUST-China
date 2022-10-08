@@ -12,51 +12,34 @@ Position: School of Life Science and Technology, Huazhong University of Science 
 
 ## Team member
 
-<figure class="third">
+<center>
     <img src="../img/team_2.png">
-    <figcaption>Tiancheng Liu
+    <figcaption>Tiancheng Liu<br/>
 Major: Biological science, Huazhong University of Science and Technology<br/>
 Attribution: Team leader, take in charge of the team,design the experiment, measure the apparent melting temperature and write the report.</figcaption>
     <img src="../img/team_3.png">
-    <figcaption>Shuo Zhang
+    <figcaption>Shuo Zhang<br/>
 Major: Biological science, Huazhong University of Science and Technology<br/>
 Attribution: Do the deputation experiment, analyses the result of the experiment,guide experimental operation,assist to write the report.</figcaption>
     <img src="../img/team_4.png">
-    <figcaption>Yuxuan He
+    <figcaption>Yuxuan He<br/>
 Major: Biological science, Huazhong University of Science and Technology&Paris-Saclay University<br/>
 Attribution: Do the cloning and expression of genes, purify SQR, write the wiki of experiment,assist to write the report</figcaption>
-</figure>
-![team_3](./img/team_3.png)
-
-Shuo Zhang
-Major: Biological science, Huazhong University of Science and Technology
-Attribution: Do the deputation experiment, analyses the result of the experiment,guide experimental operation,assist to write the report.
-
-![team_4](./img/team_4.png)
-
-Yuxuan He
-Major: Biological science, Huazhong University of Science and Technology&Paris-Saclay University
-Attribution: Do the cloning and expression of genes, purify SQR, write the wiki of experiment,assist to write the report
-
-![team_5](./img/team_5.png)
-
-Xinchen Xie
+    <img src="../img/team_5.png">
+    <figcaption>Xinchen Xie<br/>
 Major:Biological science,Huazhong University of Science and Technology&
-Paris-Saclay University
-Attribution: Construct functional bacteria used in the experiment,Read the literature to help design the experiment，assist to write the report.
-
-![team_6](./img/team_6.png)
-
-Yi Xin
+Paris-Saclay University<br/>
+Attribution: Construct functional bacteria used in the experiment,Read the literature to help design the experiment，assist to write the report.</figcaption>
+    <img src="../img/team_6.png">
+    <figcaption>Yi Xin<br/>
 Major: Biological science, Huazhong University of Science and Technology&
-Paris-Saclay University
-Attribution: Determine the activity of enzyme, help to screening of flexible sites, assist to predict of SQR mutation sites.
-
-![team_7](./img/team_7.png)
-
-Changing Fan
-Major：Biotechnology, Huazhong University of Science and Technology 
-Attribution: instruct the experiment
+Paris-Saclay University<br/>
+Attribution: Determine the activity of enzyme, help to screening of flexible sites, assist to predict of SQR mutation sites.</figcaption>
+    <img src="../img/team_7.png">
+    <figcaption>Changing Fan<br/>
+Major：Biotechnology, Huazhong University of Science and Technology <br/>
+Attribution: instruct the experiment</figcaption>
+</center>
 
 ## Acknowledgement
 
