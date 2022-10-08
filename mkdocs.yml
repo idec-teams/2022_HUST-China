@@ -43,9 +43,9 @@ nav:
   - Team: team.md
   - Project:
       - Background: project/background.md
-      - Strategy: project/strategy.md
+#      - Strategy: project/strategy.md
       - Results: project/results.md
   - Documentation:
       - Protocols: documentation/protocols.md
       - Lab notebook: documentation/notebook.md
-      - Reports: documentation/reports.md 
+#      - Reports: documentation/reports.md 
