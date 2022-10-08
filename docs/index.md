@@ -8,4 +8,4 @@ Sulfur is the basic element of all life, and its lowest valence exists in the fo
 
 Instructor
 
-![index_1](D:\document\2_IDEC\2022_HUST-China\docs\img\index_1.png)
+![index_1](.\img\index_1.png)
