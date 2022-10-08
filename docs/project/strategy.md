@@ -2,7 +2,7 @@
 
 <h2><font color=navy><i>1. What is rational design?</i></font></h2>
 
-The rational protein design strategy is mainly based on **site-directed mutagenesis** and **protein crystal diffraction technology**. Bioinformatics or computer-aided methods are used to purposefully introduce new amino acids at specific sites, so as to modify specific properties of target proteins, such as thermal stability. This strategy is easy to conduct and it can save a lot of time. To minimize the selection workload and the randomness of the directed evolution technique, we apply this strategy to find those mutation sites. 
+The rational protein design strategy is mainly based on **site-directed mutagenesis** and **protein crystal diffraction technology**. Bioinformatics or computer-aided methods are used to purposefully introduce new amino acids at specific sites, so as to modify specific properties of target proteins, such as thermal stability. This strategy is easy to conduct and it can save a lot of time. To minimize the selection workload and the randomness of the directed evolution technique, we apply this strategy to find those mutation sites.  
 
 <center>
     <img src="../../img/rational_design.png">
