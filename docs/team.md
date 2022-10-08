@@ -2,7 +2,7 @@
 
 ## Instructor
 
-![index_1](D:/document/2_IDEC/2022_HUST-China/docs/img/team_1.png)
+![index_1](./img/team_1.png)
 
 Yunjun Yan
 
@@ -11,43 +11,41 @@ Personal profile: Associate dean of Life Science and Technology School, Huazhong
 Position: School of Life Science and Technology, Huazhong University of Science and Technology.
 
 
-
 ## Team member
 
-![team_2](D:\document\2_IDEC\2022_HUST-China\docs\img\team_2.png)
+![team_2](.\img\team_2.png)
 
 Tiancheng Liu
 Major:Biological science, Huazhong University of Science and Technology
 Attribution:Team leader,, take in charge of the team,design the experiment, measure the apparent melting temperature and write the report.
 
-![team_3](D:\document\2_IDEC\2022_HUST-China\docs\img\team_3.png)
+![team_3](.\img\team_3.png)
 
 Shuo Zhang
 Major:Biological science, Huazhong University of Science and Technology
 Attribution: Do the deputation experiment, analyses the result of the experiment,guide experimental operation,assist to write the report.
 
-![team_4](D:\document\2_IDEC\2022_HUST-China\docs\img\team_4.png)
+![team_4](.\img\team_4.png)
 
 Yuxuan He
 Major:Biological science,Huazhong University of Science and Technology&Paris-Saclay University
 Attribution: Do the cloning and expression of genes, purify SQR, write the wiki of experiment,assist to write the report
 
-![team_5](D:\document\2_IDEC\2022_HUST-China\docs\img\team_5.png)
+![team_5](.\img\team_5.png)
 
 Xinchen Xie
 Major:Biological science,Huazhong University of Science and Technology&
 Paris-Saclay University
 Attribution: Construct functional bacteria used in the experiment,Read the literature to help design the experiment，assist to write the report.
 
-![team_6](D:\document\2_IDEC\2022_HUST-China\docs\img\team_6.png)
+![team_6](.\img\team_6.png)
 
 Yi Xin
 Major: Biological science, Huazhong University of Science and Technology&
 Paris-Saclay University
 Attribution: Determine the activity of enzyme, help to screening of flexible sites, assist to predict of SQR mutation sites.
 
-![team_7](D:\document\2_IDEC\2022_HUST-China\docs\img\team_7.png)
-
+![team_7](.\img\team_7.png)
 
 Changing Fan
 Major：Biotechnology, Huazhong University of Science and Technology 
