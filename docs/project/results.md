@@ -40,8 +40,8 @@ The three tools predicted 189 pairs of potential residues that can form S-S bond
 There are a total of five cysteine residues in the SQR sequence, with serial numbers of 128,160, 226,277 and 356 respectively. Among them, 128,160,356 is an important amino acid residue in the active site, while for the other two, cysteine residues without disulfide bond are unfavorable to the stability of the enzyme. In the previous prediction of disulfide bond, amino acids that can form disulfide bond with cysteine 226,277 were not found, so we tried to mutate these two cysteines. Rosetta ddg_monomer was used to predict the free energy changes of cysteine 226, 277 to other 19 amino acids.
 
 <center>
+Table 5. ΔΔG of C to X mutations
 <img src="../../img/result6.png">
-<figcaption>Table 5. ΔΔG of C to X mutations</figcaption>
 <center>
 
 We chose the 277 residues which is in the loop structure, and select the C277V mutation.
