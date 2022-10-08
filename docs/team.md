@@ -1,4 +1,4 @@
-# Our Team<h1><font color=navy>Our Team</font></h1>
+<h1><font color=navy>Our Team</font></h1>
 
 <h2><font color=navy>Instructor</font></h2>
 
