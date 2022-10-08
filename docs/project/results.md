@@ -45,3 +45,12 @@ Table 5. ΔΔG of C to X mutations
 <center>
 
 We chose the 277 residues which is in the loop structure, and select the C277V mutation.
+
+<h2><font color=navy>Expression and Purification</font></h2>
+We did enzyme fermentation and purification many times, but got strange results. Sometimes there were still many proteins left on the nickel column even after washed with 300 mM imidazole, but sometimes they had all been washed down after washed by 10 mM imidazole.
+<center>
+<img src="../../img/purify_11.png">
+<center>
+
+<h2><font color=navy>Future Plan</font></h2>
+Now we have completed the construction of the bacteria and have rich experience in protein purification. We will perform mass spectrometry operation after October 10th to verify the identified bands, and then draw the enzyme activity curve to perform qpcr operation of the protein to measure the improvement of protein heat resistance. After that, we will screen the three mutations with the best effect and introduce the three mutations into the same bacterium to further improve the heat resistance of the protein. The experiment is expected to be carried out in mid-November. After that, we will calculate the enzyme activity again, and carry out the construction, fermentation, purification and determination of enzyme activity enhancement in the same way.
