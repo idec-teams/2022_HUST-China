@@ -11,13 +11,8 @@ Personal profile: Associate dean of Life Science and Technology School, Huazhong
 Position: School of Life Science and Technology, Huazhong University of Science and Technology.
 
 ## Team member
-<figure class="third">
-    <img src="./img/team_2.png" height=300>
-    <img src="./img/team_3.png" height=300>
-    <img src="./img/team_4.png" height=300>
-</figure>
 
-![team_2](./img/team_2.png)
+<center><img src="./img/team_2.png"></center>
 
 Tiancheng Liu
 Major:Biological science, Huazhong University of Science and Technology
