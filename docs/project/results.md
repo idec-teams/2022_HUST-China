@@ -5,7 +5,7 @@
 The RMSF of each amino acid residue of wild-type SQR protein (pdb ID: 3T31) was calculated by GROMACS at 298K and 333K, and selected the amino acid sites with higher ΔRMSF and higher RMSF values at both temperatures. A total of 31 sites with high flexibility were screened. The first 10 residues in N-terminal and the last 10 residues in C-terminal have little effect on thermal stability, so we have deleted 4 residues of these kinds.
 
 <center>Table 1. The position number of selected flexible residues
-<img src="..\..\img\result1.png">
+<img src="../../img/result1.png">
 </center>
 
 <h2><font color=navy>Elimination of key sites</font></h2>
@@ -13,11 +13,11 @@ The RMSF of each amino acid residue of wild-type SQR protein (pdb ID: 3T31) was 
 ConSURF-DB was used to calculate the amino acid conservation of each site of SQR, and the sites with conservation values greater than or equal to 8 were screened out. PyMOL was used to screen out the amino acid residues within 5Å around H2S, FAD and decylubiquinone (DUQ).
 
 <center>Table 2. The position number of conserved residues
-<img src="..\..\img\result2.png">
+<img src="../../img/result2.png">
 </center>
 
 <center>Table 3. Active Sites of SQR.
-<img src="..\..\img\result3.png">
+<img src="../../img/result3.png">
 </center>
 
 <h2><font color=navy>Energy change prediction of SQR mutation sites</font></h2>
@@ -25,7 +25,7 @@ ConSURF-DB was used to calculate the amino acid conservation of each site of SQR
 We comprehensively consider the results of I-Mutant 2.0 and Rosetta ddg_monomer, and chose 30 suitable mutations. Amino acid residues located in loop structures are preferentially selected over those located in helix or sheet.
 
 <center>Table 4. Selected mutations by I-Mutant 2.0 and Rosetta
-<img src="..\..\img\result4.png">
+<img src="../../img/result4.png">
 </center>
 
 <h2><font color=navy>Design of disulfide bond</font></h2>
@@ -33,14 +33,14 @@ We comprehensively consider the results of I-Mutant 2.0 and Rosetta ddg_monomer,
 The three tools predicted 189 pairs of potential residues that can form S-S bond if they were Cys. But only 9 of them have a minus ΔΔG predicted by Rosetta ddg_monomer. For these 9 pairs, PyMOL was used for visual analysis to observe whether disulfide bonds were formed. The results showed that the nine groups of free cysteine residues were not matched in orientation and could not form disulfide bonds.
 
 <center>
-<img src="..\..\img\result5.png">
+<img src="../../img/result5.png">
 <figcaption>Figure 1. Predicted cysteine residues.</figcaption>
 <center>
 
 There are a total of five cysteine residues in the SQR sequence, with serial numbers of 128,160, 226,277 and 356 respectively. Among them, 128,160,356 is an important amino acid residue in the active site, while for the other two, cysteine residues without disulfide bond are unfavorable to the stability of the enzyme. In the previous prediction of disulfide bond, amino acids that can form disulfide bond with cysteine 226,277 were not found, so we tried to mutate these two cysteines. Rosetta ddg_monomer was used to predict the free energy changes of cysteine 226, 277 to other 19 amino acids.
 
 <center>
-<img src="..\..\img\result6.png">
+<img src="../../img/result6.png">
 <figcaption>Table 5. ΔΔG of C to X mutations</figcaption>
 <center>
 
